@@ -1,0 +1,7 @@
+.DS_Store
+*.o
+*.exe
+icd_generator
+icd_prng_example
+icd_testu01
+*.bin
