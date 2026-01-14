@@ -18,7 +18,7 @@
 #include <string.h>
 #include <stdint.h>
 
-#include "icd_prng.h"
+#include "../icd_prng.h"
 
 /* TestU01 headers */
 #include "unif01.h"
